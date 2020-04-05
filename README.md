@@ -13,9 +13,9 @@ ne supporte pas la température de cuisson de 240 degrés ... (On l a dévissé 
 ## Ingrédients (pour 2 pains de 500 grammes chacun):
 * Levure de boulanger - 20g (la recette propose moins, je ne suis pas d'accord)
 * Sel - 16g (à ajuster selon les goûts)
-* Farine - 1 kg (voir commentaires, mais par défaut farine de pain)
+* Farine - 1 kg (voir commentaires, mais par défaut farine à pain)
 
-## Préparation (5 min)
+## Préparation (5 min + quelques heure de repos)
 * Dans un grand saladier, diluer la levure dans 50 cl d'eau tiède;
 
 ``` Bien mélanger avec une fourchette afin que la levure soit complétement diluée```
@@ -39,7 +39,8 @@ ne supporte pas la température de cuisson de 240 degrés ... (On l a dévissé 
 
 <a href="https://youtu.be/I0t8ZAhb8lQ?t=3m" target="_blank"><img src="http://img.youtube.com/vi/I0t8ZAhb8lQ/0.jpg" 
  width="240" height="180" border="10" /></a>
- * Déposer le papier parcheminé dans la cocotte et enfourner
+ * Déposer le papier parcheminé dans la cocotte
+ * Avec des ciseaux inciser le haut du pain
  * laisser cuire au moins une heure. Mon temps idéal est une heure quinze mais certains trouvent le pain trop cuit à ce stade. Pour nous une heure cinq est le compromis.
  * Dès la sortie du four, sortir de la cocotte. **Attention**: en enlevant le couvercle de la vapeur peut sortir, éviter d'avoir la tête au dessus de la cocotte à ce moment là...
  
