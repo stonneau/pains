@@ -15,7 +15,7 @@ ne supporte pas la température de cuisson de 240 degrés ... (On l a dévissé 
 * Sel - 16g (à ajuster selon les goûts)
 * Farine - 1 kg (voir commentaires, mais par défaut farine à pain)
 
-## Préparation (5 min + quelques heure de repos)
+## Préparation (5 min + quelques heures de repos)
 * Dans un grand saladier, diluer la levure dans 50 cl d'eau tiède;
 
 ``` Bien mélanger avec une fourchette afin que la levure soit complétement diluée```
