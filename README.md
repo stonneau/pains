@@ -10,7 +10,7 @@ Gros inconvénient de la recette, pour moi la cuisson ne marche bien
 qu'avec une **cocotte en fonte**. Attention, le bouchon de la notre
 ne supporte pas la température de cuisson de 240 degrés ... (On l a dévissé et bouché le trou comme on pouvait).
 
-## Ingrédients (pour 2 pains de 500 grammes):
+## Ingrédients (pour 2 pains de 500 grammes chacun):
 * Levure de boulanger - 20g (la recette propose moins, je ne suis pas d'accord)
 * Sel - 16g (à ajuster selon les goûts)
 * Farine - 1 kg (voir commentaires, mais par défaut farine de pain)
